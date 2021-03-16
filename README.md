@@ -20,7 +20,7 @@
     -i, --intensive   Use option to intensive scan.
     -o , --output     Save the scan output, output plus file name to save the output.
     -s , --timeout    Choose connection timeout (use floating numbers).
-    -w , --wordlist   use a wordlist of ports in the scan, specify the name of the wordlist located 
-    in the wordlists folder.
+    -w , --wordlist   use a wordlist of ports in the scan, specify the name of 
+    the wordlist located in the wordlists folder.
     
     -t , --threads    Define threads to intensive scan (maximum = 4) | use a int number.
