@@ -23,4 +23,5 @@
     -w , --wordlist   use a wordlist of ports in the scan, specify the name of 
     the wordlist located in the wordlists folder.
     
-    -t , --threads    Define threads to intensive scan (maximum = 4) | use a int number.
+    -t , --threads    Define threads to intensive scan (maximum = 4) | use a int 
+    number.
