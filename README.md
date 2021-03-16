@@ -12,7 +12,7 @@
      [-t] [--threads]   Define threads to intensive scan (maximum = 4)
 
 
-positional arguments:
+# positional arguments:
   target            Specify the target to scan (this parameter is mandatory).
 
 optional arguments:
