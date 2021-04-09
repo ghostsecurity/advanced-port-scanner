@@ -25,3 +25,6 @@
     
     -t , --threads    Define threads to intensive scan (maximum = 4) | use a int 
     number.
+
+
+I haven't finished this project yet, the threads don't work
